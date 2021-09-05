@@ -26,9 +26,9 @@ contract AffinityDistributor is IAffinityDistributor {
         uint256 totalRealisedEarn;
     }
     // SafeEarn contract address
-    address SafeEarn = 0x099f551eA3cb85707cAc6ac507cBc36C96eC64Ff;
+    address SafeEarn = 0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47;
     // SafeVault
-    address SafeVault = 0xe2e6e66551E5062Acd56925B48bBa981696CcCC2;
+    address SafeVault = 0xDa768eD21381100E683A9Ed9271B12300512A9E3;
 
     // Pancakeswap Router
     IUniswapV2Router02 router;
